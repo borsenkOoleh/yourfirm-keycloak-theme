@@ -1,0 +1,10 @@
+.navbar-title { 
+    background-image: url("https://tf-auth0-shared-public-assets.s3.eu-central-1.amazonaws.com/yourfirm/Yourfirm_white_logo.png");
+    height: 125px;
+    width: 500px;
+    margin: 20px 10px 25px;
+}
+
+.navbar-header { 
+    background-image: url("https://tf-auth0-shared-public-assets.s3.eu-central-1.amazonaws.com/yourfirm/Yourfirm_background.png");
+}

@@ -1,0 +1,18 @@
+body.kcBodyClass { 
+    background-image: url("https://tf-auth0-shared-public-assets.s3.eu-central-1.amazonaws.com/yourfirm/Yourfirm_background.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div.kcFormCardClass.card-pf {
+    border-radius: 8px;
+}
+
+.pf-c-button.pf-m-primary {
+    border-radius: 5px;
+    background-color: #3FA435;
+    padding: 12px 24px 12px 24px;
+    font-family: Arial;
+    font-size: 16px; 
+}
