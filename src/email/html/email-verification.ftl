@@ -1,5 +1,6 @@
 <#import "template.ftl" as layout>
 <@layout.emailLayout>
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="white" ><![endif]-->
 <div style="background:white;background-color:white;margin:0px auto;max-width:600px;">
 <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:white;background-color:white;width:100%;">
     <tbody>
