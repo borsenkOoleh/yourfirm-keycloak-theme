@@ -31,6 +31,5 @@
     </tbody>
 </table>
 </div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
 ${kcSanitize(msg("emailVerificationBodyHtml",link, linkExpiration, realmName, linkExpirationFormatter(linkExpiration)))?no_esc}
 </@layout.emailLayout>
